@@ -8,7 +8,7 @@
 ![Gamma](https://img.shields.io/badge/Presentation-Gamma%20AI-purple)
 
 ---
-###Customer Behavior Dashboard
+
 ![Customer Behavior Dashboard](https://github.com/pajjuri-saiteja/customer_behavior_analysis/blob/421f3db2995bc4688194b024ada5c110baac4f57/cus%20das%20pic.png)
 
 
@@ -30,6 +30,9 @@ The complete analytics workflow includes:
 
 The objective is to transform raw customer data into actionable business insights that support data-driven decision-making.
 
+
+![Project Overview](https://github.com/pajjuri-saiteja/customer_behavior_analysis/blob/421f3db2995bc4688194b024ada5c110baac4f57/ChatGPT%20Image%20Jun%2030%2C%202026%2C%2003_06_03%20AM.png)
+
 ---
 
 # 🎯 Business Problem
@@ -46,9 +49,6 @@ A retail company wants to understand customer behavior to improve:
 The analysis focuses on identifying trends across demographics, categories, discounts, ratings, shipping methods, and purchasing habits.
 
 ---
-
-###Project Overview
-![Project Overview](https://github.com/pajjuri-saiteja/customer_behavior_analysis/blob/421f3db2995bc4688194b024ada5c110baac4f57/ChatGPT%20Image%20Jun%2030%2C%202026%2C%2003_06_03%20AM.png)
 
 # 📂 Dataset Information
 
